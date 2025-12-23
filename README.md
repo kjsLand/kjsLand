@@ -6,3 +6,6 @@ Here are some projects I have made:
 
 ## [TheScribbler]([https://github.com/kjsLand/TheScribbler]) <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
   <p>Finds a canvas on the Jackbox TKO browser and draws a given image with the colors required by the game. </p>
+
+## [RateIt](https://github.com/kjsLand/rate_it) <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"/>
+<p>Uses requests library and Spotify's API to help users locally store ratings for songs. The goal is to quickly create playlists and discover new artists.</p>
