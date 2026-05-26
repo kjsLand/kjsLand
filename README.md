@@ -1,6 +1,9 @@
 ### Hey there, I'm Kevin 
 Here are some projects I have made:
 
+## [Token Watcher](https://github.com/kjsLand/token_watcher) <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
+<p> Counts the tokens of prompts, responses, and files when developing with browser LLM tools which isn't natively supported. </p>
+
 ## [DQI-SAT solver](https://github.com/kjsLand/DQI_SAT_Solver) <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"/>
   <p>This is the capstone project I created for my master's program which explores the idea of a quantum speedup for the SAT problem. </p>
 
