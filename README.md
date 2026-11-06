@@ -1,7 +1,7 @@
 ### Hey there, I'm Kevin 
 Here are some projects I have made:
 
-## [AlgoRythm](https://github.com/kjsLand/Algo-Rythm) <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+## [AlgoRythm](https://github.com/kjsLand/Algo-Rythm) <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
 <p> Counts the tokens of prompts, responses, and files when developing with browser LLM tools which isn't natively supported. Features high-performance token processing and native bindings optimized using C. </p>
 
 ## [DQI-SAT solver](https://github.com/kjsLand/DQI_SAT_Solver) <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"/>
